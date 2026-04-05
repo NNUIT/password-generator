@@ -3,7 +3,6 @@ A simple python password generator. It has settings and supports multiple genera
 
 Quick start🚀
 
-Download Python
 Download Python from the official website: https://www.python.org/downloads/
 When installing, be sure to check the "Add Python to PATH" box.
 
