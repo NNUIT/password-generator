@@ -3,11 +3,10 @@ A simple python password generator. It has settings and supports multiple genera
 
 Quick start🚀
 
-Download Python from the official website: https://www.python.org/downloads/
+Download Python from the official website: https://www.python.org/downloads/   
 When installing, be sure to check the "Add Python to PATH" box.
 
-Download code
-Open a terminal (command line) and run:
+Open a terminal and run:
 ```bash
 git clone https://github.com/NNUIT/password-generator.git
 cd password-generator
